@@ -91,4 +91,4 @@ l1 listfunds # now the channel should be closed
 
 ### 6.Acknowledgement
 
-This testnet box is modified on the [bitcoin-testnet-box](https://github.com/freewil/bitcoin-testnet-box.git).
+This testnet box is modified from the [bitcoin-testnet-box](https://github.com/freewil/bitcoin-testnet-box.git).
