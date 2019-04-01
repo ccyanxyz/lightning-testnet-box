@@ -72,7 +72,7 @@ l2 invoice <AMOUNT IN mSAT> <LABEL> <DESCRIPTION>
 
 ```
 l1 decodepay <BOLT11> # inspect the content of the serialized invoice
-l1 getroute <PEER ID>
+l1 getroute <PEER ID> <AMOUND IN mSAT> <RISK FACTOR>
 l1 pay <BOLT11>
 l2 listfunds # now node2 should have received the money, see 'channel_sat'
 ```
