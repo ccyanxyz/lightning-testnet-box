@@ -2,7 +2,7 @@
 
 ### 1.Get the box
 
-​	Build the container yourself:
+​	Build it yourself:
 
 ```
 git clone https://github.com/ccyanxyz/lightning-testnet-box.git
